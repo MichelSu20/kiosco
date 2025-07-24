@@ -1,4 +1,4 @@
-#Mi portofolio - Tp03 (Laboratorio de Programación)
+#Mi portofolio - Tp03 (Laboratorio de Programación) <br>
 Este proyecto consiste en la creación de una página web usando HTML5 y CSS, publicada a través de Github Pages. El objetivo es brindar un servicio de catalogo para un negocio
 ### Tecnologías Usadas
 -HTML5 ( estructura semántica)
